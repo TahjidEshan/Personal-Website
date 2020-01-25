@@ -156,7 +156,7 @@
     <div id="pageWrapper" class="en-portfolio">
         <div class="contentWrapper">
             <section id="home" class="mainBanner banner-2 parallax clearfix bgColor2" data-background="images/bg2.jpg">
-                <div class="container-fluid">
+                <div class="container-fluid" data-toggle="tooltip" title="Disclaimer: This is not me in the lovely picture. I do not own the rights to this image. This is the work of Simon Migaj who graciously made this photo free for puclic use. Although I don't know him personally, I am a big fan of his work. Show him some love @simonmigaj on Twitter.">
                     <div class="row">
                         <div class="col-lg-8 col-md-8 col-md-offset-2">
                             <div class="mainBanner-content text-center text-uppercase">
@@ -168,9 +168,11 @@
                                         <b>Developer</b>
                                         <b>Reader</b>
                                         <b>Traveller</b>
+                                        <b>Foodie </b>
+                                        <b>Gamer</b>
                                     </span>
                                 </h1>
-                                <a href="#about-us" class="btn-bdr black-bdr move marT30 black">GET TO KNOW MORE</a>
+                                <a href="#about-us" class="btn-bdr black-bdr move marT30 black bold">GET TO KNOW MORE</a>
                                 <span class="downArrow">
                                     <img src="images/others/down-arrow-black.png" alt="down arrow">
                                 </span>
@@ -178,7 +180,9 @@
                         </div>
                     </div>
                 </div>
+              
             </section>
+
             <section id="about-us" class="clearfix">
                 <div class="container">
                     <div class="row row-padding">
@@ -189,7 +193,17 @@
                                     <span class="title-spt"></span>
                                 </div>
                                 <p>
-                                    Work hard, Play Harder.
+                                    <ul>
+                                        <li>Current View on Life: Work hard, Play Harder.</li>
+                                        <li>Favourite Movie Qoute: Enjoy the little things - Rule #32, Zombieland</li>
+                                        <li>Currently Learning: Intricacies of Computer Vision</li>
+                                        <li>Last Book I read: 3 a.m. by Nicholas Pirog (Still reading, haven't finished)</li>
+                                        <li>Last Show I watched: October Faction on Netflix(I know, I have bad taste)</li>
+                                        <li>Last Movie I watched: You Don't Mess with the Zohan</li>
+                                        <li>Last Anime I watched: The Disastrous Life of Saiki K</li>
+                                        <li>Currently Playing: Neverwinter, Cs:GO, Witcher 3, Sekiro: Shadows die twice</li>
+                                        <li>Current favourite song: <a href="https://www.youtube.com/watch?v=PPpWMJfpg8A">Neffex- Let me down</a></li>
+                                    </ul>
                                 </p>
                             </div>
                             <div class="col-sm-11">
@@ -209,7 +223,7 @@
                                             </li>
                                             <li class="active progress">
                                                 <div class="skill-bar-wrap">
-                                                    <div data-width="90" class="progress-bar text-uppercase" data-name="Movies/Serials/Anime">
+                                                    <div data-width="90" class="progress-bar text-uppercase" data-name="Movies/Tv Shows/Anime">
                                                     </div>
                                                 </div>
                                             </li>
@@ -228,6 +242,18 @@
                                             <li class="active progress">
                                                 <div class="skill-bar-wrap">
                                                     <div data-width="75" class="progress-bar text-uppercase" data-name="Music">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="active progress">
+                                                <div class="skill-bar-wrap">
+                                                    <div data-width="100" class="progress-bar text-uppercase" data-name="Food">
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li class="active progress">
+                                                <div class="skill-bar-wrap">
+                                                    <div data-width="85" class="progress-bar text-uppercase" data-name="Video Games">
                                                     </div>
                                                 </div>
                                             </li>
@@ -583,7 +609,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-                            <h2>Skills</h2>
+                            <h2>Skills (Professional)</h2>
                         </div>
                     </div>
                     <div class="row row-pb-md">
@@ -962,14 +988,57 @@
                                 <div class="title-style-3">
                                     <h2 class="text-uppercase">Badges</h2>
                                     <span class="title-spt"></span>
+                                    
                                 </div>
                             </div>
+                            <iframe frameborder="0" scrolling="no" src="https://wes.credly.com/embed.html#/?member_badge_id=15443247" width="180" height="230"></iframe>
                         </div>
                     </div>
                     <!-- <iframe frameborder="0" scrolling="no" src="https://wes.credly.com/embed.html#/?user=2569437&badge_count=1&category=0&include_issuer=1&include_title=1&include_recipient=1&include_description=1"
                         width="319" height="490"></iframe> -->
-                        <iframe frameborder="0" scrolling="no" src="https://wes.credly.com/embed.html#/?member_badge_id=15443247" width="180" height="230"></iframe>
+                        
                 </div>
+            </section>
+            <section id="extracurriculur" class="clearfix bgColor2">
+            <div class = "container">
+            <div class="row row-padding">
+            <div class="col-md-12">
+            <div class="heading">
+                                <div class="title-style-3">
+                                    <h2 class="text-uppercase">Some other things</h2>
+                                    <span class="title-spt"></span>
+                                </div>
+                            </div>
+                            <div>
+                            <ol>
+                            <li>
+                            <strong>  Volunteering and Organizing experience</strong>
+                            <ul>
+                            <li>
+                            Worked as a volunteer to raise money for relief materials during the tragic Rana Plaza Collapse of 2013 in Bangladesh, 
+                            coordinated with hospital authorities and played active role in  purchase and delivery of medicine and other supllies to appropriate authorities.
+                            </li>
+                            <li>
+                            Worked as a voluneer for Prothom Alo Bondhusovha in organizing and coordinating various events and festivals.
+                            </li>
+                            Worked as a volunteer in various school and college functions
+                            </ul>
+                            </li>
+                            <li>
+                            <strong>Reading</strong>
+                            <ul>
+                            <li>Won prizes from both British Council and Bishwo Shahitto Kendro for reading.</li>
+                            </ul>
+                            </li>
+                            <li>
+                           <strong>Languages</strong> 
+                           <span>I speak three languages, Bangla, Hindi and English. Hoping to learn Japanese and French in the future</span>
+                            </li>
+                            </ol>
+                            </div>
+            </div>
+            </div>
+            </div>
             </section>
             <section id="contact" class="clearfix bgColor2">
                 <div class="container">
