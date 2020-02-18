@@ -194,15 +194,15 @@
                                 </div>
                                 <p>
                                     <ul>
-                                        <li>Current View on Life: Work hard, Play Harder.</li>
-                                        <li>Favourite Movie Qoute: Enjoy the little things - Rule #32, Zombieland</li>
-                                        <li>Currently Learning: Intricacies of Computer Vision</li>
-                                        <li>Last Book I read: 3 a.m. by Nicholas Pirog (Still reading, haven't finished)</li>
-                                        <li>Last Show I watched: October Faction on Netflix(I know, I have bad taste)</li>
-                                        <li>Last Movie I watched: You Don't Mess with the Zohan</li>
-                                        <li>Last Anime I watched: The Disastrous Life of Saiki K</li>
-                                        <li>Currently Playing: Neverwinter, Cs:GO, Witcher 3, Sekiro: Shadows die twice</li>
-                                        <li>Current favourite song: <a href="https://www.youtube.com/watch?v=PPpWMJfpg8A">Neffex- Let me down</a></li>
+                                        <li><b>Current View on Life</b>: Work hard, Play Harder.</li>
+                                        <li><b>Favourite Movie Quote</b>: Enjoy the little things - Rule #32, Zombieland</li>
+                                        <li><b>Currently Learning</b>: Intricacies of Computer Vision</li>
+                                        <li><b>Last Book I read</b>: 3 a.m. by Nicholas Pirog (Still reading, haven't finished)</li>
+                                        <li><b>Last Show I watched</b>: October Faction on Netflix(I know, I have bad taste)</li>
+                                        <li><b>Last Movie I watched</b>: You Don't Mess with the Zohan</li>
+                                        <li><b>Last Anime I watched</b>: The Disastrous Life of Saiki K</li>
+                                        <li><b>Currently Playing</b>: Neverwinter, Cs:GO, Witcher 3, Sekiro: Shadows die twice</li>
+                                        <li><b>Current favourite song</b>: <a href="https://www.youtube.com/watch?v=PPpWMJfpg8A">Neffex- Let me down</a></li>
                                     </ul>
                                 </p>
                             </div>
@@ -397,7 +397,7 @@
                                         </div>
                                         <div class="timeline-body">
                                             <p>Graduated With High Distinction</p>
-                                            <p>Reciepient of Merit Based Scholarship</p>
+                                            <p>Recipient of Merit Based Scholarship</p>
                                             <p>Placed on Dean's List</p>
                                             <p>Placed on Vice Chancellor's List</p>
                                         </div>
@@ -1019,18 +1019,18 @@
                             coordinated with hospital authorities and played active role in  purchase and delivery of medicine and other supllies to appropriate authorities.
                             </li>
                             <li>
-                            Worked as a voluneer for Prothom Alo Bondhusovha in organizing and coordinating various events and festivals.
+                            Worked as a volunteer for Prothom Alo Bondhusovha in organizing and coordinating various events and festivals.
                             </li>
                             Worked as a volunteer in various school and college functions
                             </ul>
                             </li>
-                            <li>
+                            <!-- <li>
                             <strong>Reading</strong>
                             <ul>
                             <li>Won prizes from both British Council and Bishwo Shahitto Kendro for reading.</li>
                             </ul>
                             </li>
-                            <li>
+                            <li> -->
                            <strong>Languages</strong> 
                            <span>I speak three languages, Bangla, Hindi and English. Hoping to learn Japanese and French in the future</span>
                             </li>
